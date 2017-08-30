@@ -37,6 +37,6 @@ public class BankAccount {
 	}
 
 	public String toString() {
-		return "\nBalance: " + this.balance + "\nInterest Rate: " + this.interestRate;
+		return "Balance: " + this.balance + "\nInterest Rate: " + this.interestRate;
 	}
 }
